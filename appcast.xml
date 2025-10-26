@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Emerald</title>
+        <item>
+            <title>0.99</title>
+            <pubDate>Sun, 26 Oct 2025 22:35:52 +0100</pubDate>
+            <sparkle:version>0.99</sparkle:version>
+            <sparkle:shortVersionString>0.99</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.0.99.dmg" length="13445936" type="application/octet-stream" sparkle:edSignature="mfVQLAavMHhp1f0m3uk+cF0HYoh0Ozs4d7YtDzako2K5ePnemgB8ybQF2itfHPXajUh6JqYaMZ2mmzPRbU3jDA=="/>
+        </item>
+    </channel>
+</rss>
