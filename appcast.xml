@@ -3,12 +3,12 @@
     <channel>
         <title>Emerald</title>
         <item>
-            <title>0.99</title>
-            <pubDate>Sun, 26 Oct 2025 22:35:52 +0100</pubDate>
-            <sparkle:version>0.99</sparkle:version>
-            <sparkle:shortVersionString>0.99</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Mon, 27 Oct 2025 16:13:15 +0100</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.0.99.dmg" length="13445936" type="application/octet-stream" sparkle:edSignature="mfVQLAavMHhp1f0m3uk+cF0HYoh0Ozs4d7YtDzako2K5ePnemgB8ybQF2itfHPXajUh6JqYaMZ2mmzPRbU3jDA=="/>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.1.0.dmg" length="13449603" type="application/octet-stream" sparkle:edSignature="k3XklW8QC1hQn/G6GqAurFIHIr8rw/F1rYXlgODmej42lVMqTNutWZFYbHDsa1qhNGIJyD5r8+riWXjx4EYVBg=="/>
         </item>
     </channel>
 </rss>
