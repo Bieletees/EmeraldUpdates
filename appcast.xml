@@ -4,11 +4,11 @@
         <title>Emerald</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 27 Oct 2025 16:13:15 +0100</pubDate>
-            <sparkle:version>1.0</sparkle:version>
+            <pubDate>Wed, 29 Oct 2025 20:22:57 +0100</pubDate>
+            <sparkle:version>Mac202510s</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.1.0.dmg" length="13449603" type="application/octet-stream" sparkle:edSignature="k3XklW8QC1hQn/G6GqAurFIHIr8rw/F1rYXlgODmej42lVMqTNutWZFYbHDsa1qhNGIJyD5r8+riWXjx4EYVBg=="/>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.1.0.dmg" length="15557190" type="application/octet-stream" sparkle:edSignature="ZfL/UYFBb43f8+IS+XVhZKVXPVVVvtBEzS0sr5IX+6xelIbufaplKG9ZfFkBla8u9EJiEDcnoSNFBInBELCCBA=="/>
         </item>
     </channel>
 </rss>
