@@ -7,7 +7,7 @@
             <sparkle:releaseNotesLink>https://github.com/Bieletees/EmeraldUpdates/blob/main/0.01.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 29 Nov 2025 18:13:59 +0100</pubDate>
             <sparkle:version>Alpha</sparkle:version>
-            <sparkle:shortVersionString>0.01</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.0.01.dmg" length="24346011" type="application/octet-stream" sparkle:edSignature="rTw7Eyhs9yeEuylreAKfb3CmVwit/lN5oIdVVoepDTuQXObdcGxmk5dmeqaS9e4Uw4qe084zeJxB6eUQM6L7Bw=="/>
         </item>
