@@ -3,7 +3,7 @@
     <channel>
         <title>Emerald</title>
         <item>
-            <title>0.01</title>
+            <title>0.1</title>
             <sparkle:releaseNotesLink>https://github.com/Bieletees/EmeraldUpdates/blob/main/0.01.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 29 Nov 2025 18:13:59 +0100</pubDate>
             <sparkle:version>Alpha</sparkle:version>
