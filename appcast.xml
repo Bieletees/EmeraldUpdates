@@ -4,7 +4,7 @@
         <title>Emerald Updates</title>
         <item>
             <title>Version 0.1</title>
-            <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/0.01.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/0.01.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 30 Nov 2025 12:01:00 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
