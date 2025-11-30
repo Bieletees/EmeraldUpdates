@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Emerald</title>
+        <title>Emerald Updates</title>
         <item>
-            <title>0.1</title>
-            <sparkle:releaseNotesLink>https://github.com/Bieletees/EmeraldUpdates/blob/main/0.01.html</sparkle:releaseNotesLink>
-            <pubDate>Sat, 29 Nov 2025 18:13:59 +0100</pubDate>
-            <sparkle:version>Alpha</sparkle:version>
+            <title>Version 0.1</title>
+            <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/0.01.html</sparkle:releaseNotesLink>
+            <pubDate>Sat, 30 Nov 2025 12:01:00 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.0.01.dmg" length="24346011" type="application/octet-stream" sparkle:edSignature="rTw7Eyhs9yeEuylreAKfb3CmVwit/lN5oIdVVoepDTuQXObdcGxmk5dmeqaS9e4Uw4qe084zeJxB6eUQM6L7Bw=="/>
         </item>
-    </channel>
+    </channel>command:workbench.trust.manage
 </rss>
