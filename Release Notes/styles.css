@@ -1,6 +1,5 @@
 :root {
     --bg: #77cd4c;
-    --card: #ffffff;
     --accent: #4d9e49;
     --text: #111827;
 }
@@ -13,24 +12,18 @@ body {
 body {
     margin: 0;
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-    background: linear-gradient(180deg, var(--bg), #eef2f7);
-    color: var(--text);
-    -webkit-font-smoothing: antialiased;
+}
+
+li {
+    padding: 3px;
 }
 
 .container {
     max-width: 780px;
     margin: 40px auto;
     padding: 24px;
-    background: var(--card);
-    border-radius: 12px;
-    box-shadow: 0 6px 18px rgba(15, 22, 39, 0.08);
 }
 
-h1 {
-    color: var(--accent);
-    margin-top: 0
-}
 
 .center {
     display: flex;
