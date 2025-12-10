@@ -20,6 +20,7 @@ li {
 
 .container {
     max-width: 780px;
+    margin: 40px auto;
     padding: 24px;
 }
 
