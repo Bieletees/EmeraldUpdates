@@ -20,17 +20,11 @@ li {
 
 .container {
     max-width: 780px;
-    margin: 40px auto;
     padding: 24px;
 }
 
 
-.center {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-}
+
 
 @media (max-width:520px) {
     .container {
