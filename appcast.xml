@@ -6,10 +6,10 @@
             <title>0.1.2</title>
             <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
             <pubDate>Wed, 17 Dec 2025 20:05:12 +0100</pubDate>
-            <sparkle:version>4</sparkle:version>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="27368860" type="application/octet-stream" sparkle:edSignature="3wwcOZXKECoTfkDUyS+nSHfQI80muhkXwhyd+v9CRe4iySNt58wUjo8qBtVCrWA8dR9CWvWyUXRAd992gadXAg=="/>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="27364892" type="application/octet-stream" sparkle:edSignature="3oGzFCnMaklNIVXOM06UzMr0In9AdtJ6iCg0yoIf0wZ6gXIM4eQx+/DLx183uO7E4XWwBglGJDWa+oALg+l/BAA=="/>
         </item>
     </channel>command:workbench.trust.manage
 </rss>
