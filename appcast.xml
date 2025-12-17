@@ -9,7 +9,7 @@
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="27368834" type="application/octet-stream" sparkle:edSignature="VbCeEY8mfnHddZQOVP1Z/YnuM2T7g19XFCRZY+Ppk8Cuq0+h1ujMbQGBtqK/MP8k29RSGLmfQYGwrvmUJjpTAA=="/>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="27368860" type="application/octet-stream" sparkle:edSignature="3wwcOZXKECoTfkDUyS+nSHfQI80muhkXwhyd+v9CRe4iySNt58wUjo8qBtVCrWA8dR9CWvWyUXRAd992gadXAg=="/>
         </item>
     </channel>command:workbench.trust.manage
 </rss>
