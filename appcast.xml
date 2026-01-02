@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Emerald Updates</title>
+        <title>Emerald</title>
         <item>
             <title>0.1.4</title>
+            <pubDate>Fri, 02 Jan 2026 11:43:02 +0100</pubDate>
             <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
-            <pubDate>Fri, 2 Jan 2026 11:45:30 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="27386622" type="application/octet-stream" sparkle:edSignature="uwbD4ijw3JRAEgKWA0aEU/PqeCYqoBvw40+xEIecgwIhHJ01sO9Za2AqFOvuW2t/ZezD4XV1ut+IPHAdETnhCg=="/>
+            <enclosure url="https://bieletees.github.io/EmeraldUpdates/Emerald.dmg" length="27386622" type="application/octet-stream" sparkle:edSignature="uwbD4ijw3JRAEgKWA0aEU/PqeCYqoBvw40+xEIecgwIhHJ01sO9Za2AqFOvuW2t/ZezD4XV1ut+IPHAdETnhCg=="/>
         </item>
     </channel>command:workbench.trust.manage
 </rss>
