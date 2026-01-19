@@ -3,13 +3,13 @@
     <channel>
         <title>Emerald</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Tue, 13 Jan 2026 21:36:51 +0100</pubDate>
+            <title>0.30</title>
+            <pubDate>Mon, 19 Jan 2026 22:28:01 +0100</pubDate>
             <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="28975094" type="application/octet-stream" sparkle:edSignature="17RIsFD/Mf7TrCGoj4fsfCFJz++0P2KMvaCcIBpB5W1DYIrVm/pmnCJsKo8i7cTi/VZreagaRFT9d/2cSx6hBQ=="/>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="29069330" type="application/octet-stream" sparkle:edSignature="1V8j2KmxI6ilW2oQEX0/D1Lxhe8EaDBavi1mHqTr21UtSmPqyu4urSyrQEIkxpj868vbO2lHedS9In86bI/IAg=="/>
         </item>
     </channel>command:workbench.trust.manage
 </rss>
