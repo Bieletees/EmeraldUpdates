@@ -7,11 +7,13 @@
 html,
 body {
     height: 100%;
+    padding-bottom: 6;
 }
 
 body {
     margin: 0;
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+        padding-bottom: 6;
 }
 
 li {
@@ -23,6 +25,7 @@ li {
     margin: 40px auto;
     padding-left: 24px;
     padding-right: 24px;
+    padding-bottom: 6;
 }
 
 
