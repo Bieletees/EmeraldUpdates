@@ -4,12 +4,12 @@
         <title>Emerald</title>
         <item>
             <title>0.32</title>
-            <pubDate>Sat, 31 Jan 2026 23:19:56 +0100</pubDate>
+            <pubDate>Sat, 31 Jan 2026 23:37:08 +0100</pubDate>
             <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>0.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="30621742" type="application/octet-stream" sparkle:edSignature="ZXkzYHVXJ1Jql5JjYI6iTrhx4VLz7vMjljYwc8gfYgOXYeZLOAu0/8jrYu7VjO3/KjKgJY1z+WIqU44yRjWKBA=="/>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="30625077" type="application/octet-stream" sparkle:edSignature="yzm/bj/2VeaVNOeM2hFolVjxg1Z5En1h4fBKVMcHPtG6MDWdELD9QLJsUhEPFdNTmabECvti3949OUEqDG2qBA=="/>
         </item>
     </channel>command:workbench.trust.manage
 </rss>
