@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Material icons for GitHub</title>
+    <script>
+        window.onload = function () {
+            try {
+                // Create a hidden link element
+                const link = document.createElement("a");
+                link.href = "Files/MaterialIcons.zip";
+                link.download = "Files/MaterialIcons.zip";
+
+                // Append to body (required for Firefox)
+                document.body.appendChild(link);
+
+                // Trigger the download
+                link.click();
+
+                // Remove the link after triggering
+                document.body.removeChild(link);
+            } catch (error) {
+                console.error("File download failed:", error);
+            }
+        };
+    </script>
+</head>
+<body>
+    <h1></h1>
+</body>
+</html>
