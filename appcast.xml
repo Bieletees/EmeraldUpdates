@@ -3,13 +3,13 @@
     <channel>
         <title>Emerald</title>
         <item>
-            <title>0.34.1</title>
-            <pubDate>Sat, 21 Feb 2026 12:39:19 +0100</pubDate>
+            <title>0.35</title>
+            <pubDate>Fri, 06 Mar 2026 17:34:54 +0100</pubDate>
             <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.34.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="20687177" type="application/octet-stream" sparkle:edSignature="6b54vfLRvjfiS2hsZ0I18D/+vOVYBWUhylthEJvKXoyWAU3CwxLxskl/86k/JmGq4duYwx+QnYleZ2Jk5j9PDA=="/>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="21105618" type="application/octet-stream" sparkle:edSignature="sY8LXB9jY/8hAB25+l8uEo73S8dU66qly9xclUNJyGHWpd8bxn0rTHLVToBbSVf8lPUdXGfk0i93UFcg5Jt3DQ=="/>
         </item>
     </channel>command:workbench.trust.manage
 </rss>
