@@ -10,37 +10,83 @@
 
 <body>
     <main class="container">
-        <h2>Version 0.70</h2>
-        <h3>This updates brings a LOT of performance improvements (I think I've spent more time doing traces in Instruments than actually adding features lol), while bringing some requested features as well.</h3>
-        
+        <h2>Version 0.71</h2>
+        <h3>0.71 improves certain aspects that needed improvements, while adding some features that make the app better.
+        </h3>
+
         <p>NEW FEATURES:</p>
         <ul>
-            <li>The brand new Folder labels are here! These will adapt to the color of the Space, while bringing a new label when the Folder is open</li>
-            <li>Incognito is here! Incognito is a Private Space that deletes all website data when you close Emerald, and it blocks trackers by default. You can enable it in Emerald > Settings > General</li>
+            <li>Redesigned Sidebar: The Sidebar has been redesigned! It has brand new context menus, Recents now show as
+                a popover and the state of it restores when it's opened again.</li>
+            <li>Grain support: Add texture to your Spaces with grain! Just go to the Theme Editor to change grain
+                opacity.</li>
+            <li>New universal alerts: Alerts have a new design that's unified across the app. They have been already
+                implemented in most sections of the app.</li>
+            <li>Improved Space creation: A new option to set Profile, improvements to animations and symbols as icon
+                make Space creation better than ever.</li>
+            <li>New version of AdBlock+: Better score on ad block testers, with a fix for blocked links.</li>
+            <li>iCloud Sync updates: Improved iCloud sync and added an information menu in the Sidebar or in Settings >
+                Sync.</li>
+            <li>Tab suspensor: For better performance, a tab suspensor has been added. This doesn't apply to tabs that
+                are in picture-in-picture.</li>
+        </ul>
+
+        <p>BUG FIXES:</p>
+        <ul>
+            <li>Started to separate views for better performance. This will happen gradually, but the heaviest ones have
+                been separated,
+                bringing a performance boost.</li>
+            <li>Added a new custom designed SwiftData fetcher that will avoid redrawing views back and forth when
+                something changes.</li>
+            <li>Fixed bugs with Space creation.</li>
+            <li>Optimized sections of the app, such as the Emoji Picker, the core, Sidebar and more.</li>
+            <li>Emerald now relies on auto save instead of saving every interaction, which makes the app faster if
+                iCloud Sync is
+                enabled.</li>
+            <li>Improved performance while switching, loading and creating Spaces and Tabs.</li>
+            <li>LOTS of other bug fixes.</li>
+        </ul>
+
+        <p>Thanks for using Emerald for Mac!</p>
+
+        <h2>Version 0.70</h2>
+        <h3>This updates brings a LOT of performance improvements (I think I've spent more time doing traces in
+            Instruments than actually adding features lol), while bringing some requested features as well.</h3>
+
+        <p>NEW FEATURES:</p>
+        <ul>
+            <li>The brand new Folder labels are here! These will adapt to the color of the Space, while bringing a new
+                label when the Folder is open</li>
+            <li>Incognito is here! Incognito is a Private Space that deletes all website data when you close Emerald,
+                and it blocks trackers by default. You can enable it in Emerald > Settings > General</li>
             <li>New Traffic lights that are more efficient, and maintain the native feel when you hover over them</li>
             <li>Updated AdBlock+ to the latest version, fixing bugs with YouTube, Kahhot and Google websites</li>
             <li>Redesigned old sections with the new features of the last few months</li>
         </ul>
-        
+
         <p>BUG FIXES:</p>
         <ul>
             <li>Fixed bugs with Split View</li>
             <li>Improved performance while switching Tabs</li>
-            <li>Made animations smoother with multiple tabs open by only animating the selected Tab, and making the Sidebar lazy to support lots of Spaces</li>
-            <li>Emerald now relies on auto save intead of saving every interaction, which makes the app faster if iCloud Sync is enabled.</li>
+            <li>Made animations smoother with multiple tabs open by only animating the selected Tab, and making the
+                Sidebar lazy to support lots of Spaces</li>
+            <li>Emerald now relies on auto save instead of saving every interaction, which makes the app faster if
+                iCloud Sync is enabled.</li>
             <li>Improved performance while switching Spaces</li>
             <li>LOTS of other bug fixes.</li>
         </ul>
-        
+
         <p>Thanks for using Emerald for Mac!</p>
 
         <h2>Version 0.54</h2>
         <h3>Version 0.54 makes Emerald better in almost every aspect, while making BIG performance improvements.</h3>
-        
+
         <p>NEW FEATURES:</p>
         <ul>
-            <li>Emerald has a brand new Ad Blokcer: Emerald AdBlock+! It's open source and it is up to 5 times more powerful, while maintaining the same efficiency as the previous one!</li>
-            <li>Native Extensions are here! These extensions are fully programmed with Swift and made to work in Emerald. Here are the new extensions:</li>
+            <li>Emerald has a brand new Ad Blocker: Emerald AdBlock+! It's open source and it is up to 5 times more
+                powerful, while maintaining the same efficiency as the previous one!</li>
+            <li>Native Extensions are here! These extensions are fully programmed with Swift and made to work in
+                Emerald. Here are the new extensions:</li>
             <ul>
                 <li>Emerald Dark Reader: Make your websites dark.</li>
                 <li>Emerald Password Manager: Connect Emerald with 3rd party password managers.</li>
@@ -49,41 +95,48 @@
             </ul>
             <li>Animations are snappier across the app.</li>
             <li>Websites Loading will now appear transparent blending in with the Space gradient.</li>
-            <li>Favorites are now tied to Profiles! That means that you can have different Favorites per Spaces, just by changing its Profile!</li>
+            <li>Favorites are now tied to Profiles! That means that you can have different Favorites per Spaces, just by
+                changing its Profile!</li>
             <li>Searchable Recents: Redesigned Recents page, with search support.</li>
-            <li>New Credits page. Check contributors that have made Emerald possible in the brand new Credits tab inside Settings.</li>
-            <li>With Verical Toolbar, there's now a divider line and the page title, near the host Text.</li>
+            <li>New Credits page. Check contributors that have made Emerald possible in the brand new Credits tab inside
+                Settings.</li>
+            <li>With Vertical Toolbar, there's now a divider line and the page title, near the host Text.</li>
         </ul>
-        
+
         <p>BUG FIXES:</p>
         <ul>
             <li>Fixed issues with JavaScript URL redirecting not changing well.</li>
             <li>Improved performance with website loading.</li>
-            <li>Fixed performancxe issues with the Search Bar.</li>
+            <li>Fixed performance issues with the Search Bar.</li>
             <li>Fixed rendering issues with GitHub being to aggressive with extensions.</li>
             <li>LOTS of other bug fixes.</li>
         </ul>
-        
+
         <p>Thanks for using Emerald for Mac!</p>
 
         <h2>Version 0.53</h2>
         <h3>0.53 makes Emerald better than ever, with features you've been requesting for ages!</h3>
-        
+
         <p>NEW FEATURES:</p>
         <ul>
-            <li><strong>Passkeys are finally here!</strong> Apple has approved the Passkeys entitlement, so you can now use
+            <li><strong>Passkeys are finally here!</strong> Apple has approved the Passkeys entitlement, so you can now
+                use
                 Passkeys seamlessly.</li>
-            <li><strong>Custom Fonts.</strong> Personalize your browsing experience by changing the font of any webpage—make the
+            <li><strong>Custom Fonts.</strong> Personalize your browsing experience by changing the font of any
+                webpage—make the
                 internet feel more like you.</li>
-            <li><strong>Deeper system integration.</strong> Native traffic lights are here, along with full default browser
+            <li><strong>Deeper system integration.</strong> Native traffic lights are here, along with full default
+                browser
                 support (configurable in Settings) and Handoff support.</li>
-            <li><strong>Chaty in the AI Sidebar.</strong> Meet Chaty, Emerald's AI assistant inside the AI Sidebar. Attach tabs to it just like Dia or
+            <li><strong>Chaty in the AI Sidebar.</strong> Meet Chaty, Emerald's AI assistant inside the AI Sidebar.
+                Attach tabs to it just like Dia or
                 Atlas. Chaty is powered by Apple Intelligence, just like other MyIntelligence features.</li>
-            <li><strong>Resizable sidebars.</strong> You can now drag to resize both the AI Sidebar and the standard sidebar.
+            <li><strong>Resizable sidebars.</strong> You can now drag to resize both the AI Sidebar and the standard
+                sidebar.
             </li>
             <li><strong>More sections in Gotham</strong> More titles now use Emerald's Gotham font.</li>
         </ul>
-        
+
         <p>BUG FIXES:</p>
         <ul>
             <li>Improved animations, scrolling, and webpage loading. Emerald now feels faster and smoother.</li>
@@ -91,48 +144,54 @@
             <li>Resolved crashes related to Web Content, Profiles, and the Search Bar.</li>
             <li>Many other bug fixes and stability improvements.</li>
         </ul>
-        
+
         <p>Thanks for using Emerald for Mac, and have a great day!</p>
 
         <h2>Version 0.52</h2>
-        <h3>Version 0.52 "Snow Leopards" Emerald for a better experience, while adding features that make Emerald better as a daily driver.</h3>
-        
+        <h3>Version 0.52 "Snow Leopards" Emerald for a better experience, while adding features that make Emerald better
+            as a daily driver.</h3>
+
         <p>NEW FEATURES:</p>
         <ul>
-            <li>Introducing Emerald Password Manager! Password Manager autofills passwords so you can log in faster. You can import your CSV from your preferred password manager in Settings > Passwords.</li>
+            <li>Introducing Emerald Password Manager! Password Manager autofills passwords so you can log in faster. You
+                can import your CSV from your preferred password manager in Settings > Passwords.</li>
             <li>Little Emerald is here! See previews of websites before adding them to a Space.</li>
             <li>With the brand new reordering, you can pin to Folders, to a Space or Favorite by just dragging!</li>
-            <li>There's a brand new translator, with wider page support and more customization option in Settings > General.</li>
+            <li>There's a brand new translator, with wider page support and more customization option in Settings >
+                General.</li>
             <li>Added symbol customization on tabs and Spaces.</li>
             <li>Replaced Recovery Key with Local authentication (Touch ID or password).</li>
             <li>Improved the Tab switcher (control + tab).</li>
             <li>New font on some titles: Emerald's font (Gotham).</li>
         </ul>
-        
+
         <p>BUG FIXES:</p>
         <ul>
             <li>Improved scrolling and performance overall. The app feels faster and smoother.</li>
             <li>Fixed back and forward buttons now showing as expected.</li>
-            <li>Fixed crashes related to Web Content, Profiles, and the Search Bar. This forces a Profile to all Spaces that don't have one.</li>
+            <li>Fixed crashes related to Web Content, Profiles, and the Search Bar. This forces a Profile to all Spaces
+                that don't have one.</li>
             <li>Fixed issues with Recents in the menu bar, plus a new shortcut (command + y)</li>
             <li>Fixed issues with paddings in borderless mode.</li>
         </ul>
 
         <p>IMPORTANT INFORMATION:</p>
         <ul>
-            <li>I requested the Passkeys entitlement to Apple a week ago. I haven't received a reply (yet), but when it gets accepted, you will have Passkeys! I will tell you when it gets accepted.</li>
+            <li>I requested the Passkeys entitlement to Apple a week ago. I haven't received a reply (yet), but when it
+                gets accepted, you will have Passkeys! I will tell you when it gets accepted.</li>
         </ul>
-        
+
         <p>Thanks for using Emerald for Mac!</p>
         <h2>Version 0.51.1</h2>
-        <p>This fixes a crash with creating your first Space. Make sure that if you have opened Emerald for the first time in 0.51, make sure that you have a Profile assigned to the Space. Otherwise, it will crash.</p>
+        <p>This fixes a crash with creating your first Space. Make sure that if you have opened Emerald for the first
+            time in 0.51, make sure that you have a Profile assigned to the Space. Otherwise, it will crash.</p>
 
         <p>Thanks for using Emerald for Mac!</p>
 
         <h2>Version 0.51</h2>
         <h3>Version 0.51 finally brings Emerald to Beta, with many improvements that will make your experience even
             better.</h3>
-        
+
         <p>NEW FEATURES:</p>
         <ul>
             <li>Split View is here! You can now view multiple pages at the same time.</li>
@@ -141,33 +200,37 @@
             <li>Added new transitions to the onboarding and renamed the remaining "Tables" labels.</li>
             <li>Reader options can now be opened and closed to avoid distractions.</li>
         </ul>
-        
+
         <p>BUG FIXES:</p>
         <ul>
-            <li>Fixed iCloud sync issues, especially between Emerald for iOS. Make sure both versions are updated to the latest
+            <li>Fixed iCloud sync issues, especially between Emerald for iOS. Make sure both versions are updated to the
+                latest
                 version to see the improvements.</li>
             <li>Reordering now works as expected in macOS Tahoe 26.4.</li>
             <li>Fixed crashes related to Web Content, Profiles, and the Search Bar.</li>
             <li>Fixed issues with web performance and scrolling.</li>
             <li>Lots of other bug fixes.</li>
         </ul>
-        
+
         <p>Thanks for using Emerald for Mac!</p>
 
         <h2>Version 0.50.1</h2>
-        <p>This version fixes a crash that made the app no longer start up. If you have this issue, download the DMG to reinstall Emerald. Your data won't be lost, you're just updating manually.</p>
-        <a href="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg">Download Emerald for Mac</a>
-        
+        <p>This version fixes a crash that made the app no longer start up. If you have this issue, download the DMG to
+            reinstall Emerald. Your data won't be lost, you're just updating manually.</p>
+        <a href="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg">Download Emerald for
+            Mac</a>
+
         <p>Thanks for using Emerald for Mac!</p>
 
         <h2>Version 0.50</h2>
-        <h3>This version marks history. Emerald for Mac has oficially exited Alpha! There are lots of features and
+        <h3>This version marks history. Emerald for Mac has officially exited Alpha! There are lots of features and
             performance improvements to talk about.</h3>
         <p>NEW FEATURES:</p>
         <ul>
-            <li>Tables are now Spaces. This update brings the Spaces selctor and the bottom and Tabbies now are near the
+            <li>Tables are now Spaces. This update brings the Spaces selector and the bottom and Tabbies now are near
+                the
                 Pinned Tabs, with a divider line.</li>
-            <li>Emerald had only one AI feature, ChatGPT Search. It was fine, but what if there are more? Itroducing
+            <li>Emerald had only one AI feature, ChatGPT Search. It was fine, but what if there are more? Introducing
                 MyIntelligence! MyIntelligence is an AI that improves your internet life. These are its features:</li>
             <ul>
                 <li>Renamer: Have your tabs automatically renamed with shorter titles when you Pin them.</li>
@@ -176,24 +239,29 @@
                 <li>ChatGPT Search: Search with ChatGPT easily with the search bar.</li>
             </ul>
             <li>All of these features can be disabled. To learn more, go to Emerald > Settings > MyIntelligence.</li>
-            <li>The Search bar is now smarter, with big bugs fixed, Spaces switching and Space selection when changing Tabs from it.</li>
+            <li>The Search bar is now smarter, with big bugs fixed, Spaces switching and Space selection when changing
+                Tabs from it.</li>
             <li>There's a brand new Emoji picker that has all the emojis with a search bar!</li>
         </ul>
 
         <p>PERFORMANCE FIXES:</p>
         <ul>
-            <li>Made the Sidebar 3x more efficient! For proof, I opened 15 tabs on 3 Spaces and it was running smoothly. The old one with 7 Tabs was laggier.</li>
+            <li>Made the Sidebar 3x more efficient! For proof, I opened 15 tabs on 3 Spaces and it was running smoothly.
+                The old one with 7 Tabs was laggier.</li>
             <li>Fixed a bug that wiped Spaces and Tabs when updated. If it still happens, DM me on Reddit.</li>
-            <li>Fixed issues with iCloud Sync. If it still doesn't work, wait a few minutes to make sure all data is downloaded. There's also a Sync sction in Settings where you can see if something's going wrong. I'm going to also release a patch for iOS soon.</li>
+            <li>Fixed issues with iCloud Sync. If it still doesn't work, wait a few minutes to make sure all data is
+                downloaded. There's also a Sync sction in Settings where you can see if something's going wrong. I'm
+                going to also release a patch for iOS soon.</li>
             <li>Fixed some padding issues in Settings.</li>
             <li>LOTS of other bug fixes</li>
         </ul>
 
         <p>IMPORTANT INFORMATION:</p>
         <ul>
-            <li>Emerald for Mac is now in PRE-BETA. I want to first fix some important bugs before switching to beta, just like it happened when I released Emerald for Mac to the public 3 months ago.</li>
+            <li>Emerald for Mac is now in PRE-BETA. I want to first fix some important bugs before switching to beta,
+                just like it happened when I released Emerald for Mac to the public 3 months ago.</li>
         </ul>
-        
+
         <p>Thanks for using Emerald for Mac!</p>
 
         <h2>Version 0.35</h2>
@@ -202,7 +270,7 @@
         <p>NEW FEATURES:</p>
         <ul>
             <li>After a month of little testing and a week of finalizing them with Codex, Extensions are here! Not all
-                extensions are compatible though, but there's a store with extensions that work in Emerald (extesnions
+                extensions are compatible though, but there's a store with extensions that work in Emerald (extensions
                 that I have tested) with the direct ZIP download. To Access it, go into Settings > Extensions > Emerald
                 Extension Store. </li>
             <li>You can now swipe to change between Tables, plus a theme changing effect when you scroll!</li>
@@ -215,13 +283,13 @@
         <ul>
             <li>Made the Sidebar more efficient, specially when it has folders and they are opened.</li>
             <li>Unified Settings and fixed LOTS of performance bugs.</li>
-            <li>Fixed issues with the Search Bar ang suggestions</li>
+            <li>Fixed issues with the Search Bar and suggestions</li>
             <li>LOTS of other bug fixes</li>
         </ul>
 
         <p>IMPORTANT INFORMATION:</p>
         <ul>
-            <li>Emerald for Mac now requires macOS Sequoia (15.0) or later. This change allowed me add Extenions and
+            <li>Emerald for Mac now requires macOS Sequoia (15.0) or later. This change allowed me add Extensions and
                 Table swiping.</li>
             <li>Emerald for Mac is leaving Alpha really soon! I haven't found any big issues in this version, but if you
                 find big issues or bugs, report them to me before I switch to Beta.</li>
@@ -230,13 +298,13 @@
         <p>Thanks for using Emerald for Mac!</p>
 
         <h2>Version 0.34.1</h2>
-        <h3>This version fixes some issues when typing very fast, opening Favorites and unwarpping optionals so Emerald
+        <h3>This version fixes some issues when typing very fast, opening Favorites and unwrapping optionals so Emerald
             doesn't crash. Sorry for those crashes. As a reward, I'm giving you 2 requested features today!</h3>
         <p>These are the features:</p>
         <ul>
             <li>Peek is here! Now, when the website requests a new tab, it will open as a popup that you can close
-                easily by pressing the close buttton or pressing outside of the popup.</li>
-            <li>You can now use the arrows to change between webistes, recents and search suggestions!</li>
+                easily by pressing the close button or pressing outside of the popup.</li>
+            <li>You can now use the arrows to change between websites, recents and search suggestions!</li>
             <li>Reengineered the sidebar once again to use the same efficiency as 0.34, but showing it as an overlay
                 when closed so the web content doesn't get resized.</li>
             <li>You can now download images by right-clicking an image and pressing "Download Image..."</li>
@@ -257,7 +325,7 @@
                 desktop</li>
             <li>Fixed issues with control + tab switching</li>
             <li>The blocker is now stronger! There's also a YouTube ad blocker as well</li>
-            <li>LOTS bug fixes</li>
+            <li>LOTS of bug fixes</li>
         </ul>
         <p>Thanks for using Emerald for Mac!</p>
 
@@ -275,7 +343,7 @@
             <li>Website Permissions now work as expected. With this update, Camera, Microphone, Apps and Location
                 permissions are now usable thanks to fixing a little bug that wasn't identified before when I removed
                 the sandbox.</li>
-            <li>LOTS bug fixes</li>
+            <li>LOTS of bug fixes</li>
         </ul>
         <p>Thanks for using Emerald for Mac!</p>
 
@@ -284,15 +352,16 @@
         <p>Here's what's new:</p>
         <ul>
             <li>Introducing Browser Importing! You can now import your bookmarks and profiles from your previous browser
-                to Emerald! There are some web browsers available, buit if you want more browsers, just let me know!
+                to Emerald! There are some web browsers available, but if you want more browsers, just let me know!
             </li>
             <li>There's also a new Recents system! Now, every website that you visit, will appear in Recents! This new
                 system also shows the time and date when the Recent was created and this system makes Emerald up to 3x
                 faster because it's now a separate class!</li>
-            <li>Search Suggestions have been improved, adding symbol idicators to detect if it's a Pinned Tab, a Tabbie,
+            <li>Search Suggestions have been improved, adding symbol indicators to detect if it's a Pinned Tab, a
+                Tabbie,
                 a Favorite or a Recent</li>
             <li>Folder in Folder in Folder? Now it's possible thanks to nested Folders and Tabs!</li>
-            <li>Made some improvements to the siedbar performance</li>
+            <li>Made some improvements to the sidebar performance</li>
             <li>LOTS bug fixes</li>
         </ul>
         <p>Thanks for using Emerald for Mac!</p>
@@ -323,7 +392,7 @@
         <h3>In version 0.30, Emerald for Mac can now Sync with iOS and has some requested features. </h3>
         <p>Here's what's new:</p>
         <ul>
-            <li>Intrducing iCloud Sync! Now, you can Sync your Tables, Folders and Tabs across iPhone, iPad, Mac and
+            <li>Introducing iCloud Sync! Now, you can Sync your Tables, Folders and Tabs across iPhone, iPad, Mac and
                 Vision Pro!</li>
             <li>Picture in Picture will trigger automatically when you switch Tabs. This can be disabled pressing the
                 gear icon.</li>
@@ -343,7 +412,7 @@
         <ul>
             <li>Emerald for Mac is now a public Alpha. Starting today, if someone wants to try Emerald for Mac, they can
                 do it right away without touching any waitlist!</li>
-            <li>Introducing Profiles! With Profiles, you can makes Tables truly separate. Each Profile has its own data.
+            <li>Introducing Profiles! With Profiles, you can make Tables truly separate. Each Profile has its own data.
             </li>
             <li>You can now reorder Pinned Tabs, Folders and Tabbies</li>
             <li>Fixed corner radius and traffic light colors on macOS Sonoma and Sequoia</li>
@@ -386,7 +455,7 @@
                 from this update!</li>
             <li>Introducing Tree Tabs! With Tree Tabs, every Tab opened in a new Tab, it will show as a sub tab from
                 that Tab</li>
-            <li>Fixed some bugs that produced chrashes</li>
+            <li>Fixed some bugs that produced crashes</li>
             <li>Fixed LOTS of issues that were present on macOS Sonoma and Sequoia</li>
             <li>Tabs view from Tables in Feed now follows all the new features</li>
             <li>LOTS of bug fixes</li>
