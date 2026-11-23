@@ -3,6 +3,17 @@
     <channel>
         <title>Emerald</title>
         <item>
+            <title>27.0 Beta 1</title>
+            <pubDate>Tue, 24 Nov 2026 00:06:43 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
+            <sparkle:version>27012k</sparkle:version>
+            <sparkle:shortVersionString>27.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates-beta/Emerald.dmg" length="508238248" type="application/octet-stream" sparkle:edSignature="KIfYpJ+zcPffpVxvjt/iX/P4CrrYHJPKM01oFwKYO121vcmpddH8etmQEcZlsvxsEXAiGDswPvpMO+B1AjXcDw=="/>
+        </item>
+        <item>
             <title>1.06</title>
             <pubDate>Tue, 24 Nov 2026 00:04:42 +0100</pubDate>
             <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
