@@ -3,13 +3,24 @@
     <channel>
         <title>Emerald</title>
         <item>
-            <title>1.05</title>
-            <pubDate>Sun, 15 Nov 2026 20:13:40 +0100</pubDate>
+            <title>27.0 Beta 1</title>
+            <pubDate>Tue, 24 Nov 2026 00:06:43 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
             <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
-            <sparkle:version>120</sparkle:version>
-            <sparkle:shortVersionString>1.05</sparkle:shortVersionString>
+            <sparkle:version>27012k</sparkle:version>
+            <sparkle:shortVersionString>27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="179497136" type="application/octet-stream" sparkle:edSignature="jVUxCzRCjla/fiNcnmbUxaSKbHnihZcBh0RHSq609I+gqhExI0UpnUIIbPWLu/1vORfItwPNbxiDMThrXvlEAQ=="/>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bieletees.github.io/EmeraldUpdates/releases/download/beta-updates/Emerald-Beta.dmg" length="508237462" type="application/octet-stream" sparkle:edSignature="MlL/C2YvRWmbzI0tn1f54FmX7IZg4+aEjyTvce3PnOxT28ddQHPTkY64EA/Buk+zJz0gY3cBwSxJcS+guzdWCw=="/>
+        </item>
+        <item>
+            <title>1.06</title>
+            <pubDate>Tue, 24 Nov 2026 00:04:42 +0100</pubDate>
+            <sparkle:releaseNotesLink>https://bieletees.github.io/EmeraldUpdates/Release%20Notes/ReleaseNotes.html</sparkle:releaseNotesLink>
+            <sparkle:version>130</sparkle:version>
+            <sparkle:shortVersionString>1.06</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates/Emerald.dmg" length="179675395" type="application/octet-stream" sparkle:edSignature="kM92YMcMedrVZW2L4t/bPaszKQdUstsDzt+XTUXbcqCT0ZgaVk41T2Lw+l6XxUViT2uWwjzWnzgo5l/ab5qiDg=="/>
         </item>
     </channel>
 </rss>
