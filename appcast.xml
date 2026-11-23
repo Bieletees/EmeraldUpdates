@@ -11,7 +11,7 @@
             <sparkle:shortVersionString>27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bieletees.github.io/EmeraldUpdates/releases/download/updates-beta/Emerald-Beta.dmg" length="508237462" type="application/octet-stream" sparkle:edSignature="MlL/C2YvRWmbzI0tn1f54FmX7IZg4+aEjyTvce3PnOxT28ddQHPTkY64EA/Buk+zJz0gY3cBwSxJcS+guzdWCw=="/>
+            <enclosure url="https://github.com/Bieletees/EmeraldUpdates/releases/download/updates-beta/Emerald.dmg" length="508237462" type="application/octet-stream" sparkle:edSignature="MlL/C2YvRWmbzI0tn1f54FmX7IZg4+aEjyTvce3PnOxT28ddQHPTkY64EA/Buk+zJz0gY3cBwSxJcS+guzdWCw=="/>
         </item>
         <item>
             <title>1.06</title>
